@@ -1,3 +1,1 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+🚀 Student Management System built with React, TypeScript, and Supabase to manage student records, attendance, marks, assignments, study materials, and academic activities through a modern web interface.
